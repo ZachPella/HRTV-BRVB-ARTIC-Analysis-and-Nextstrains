@@ -1,0 +1,94 @@
+LOCUS       MH880287                2372 bp    cRNA    linear   VRL 29-APR-2019
+DEFINITION  Bourbon virus isolate MO-2013-2499 segment 1, complete sequence.
+ACCESSION   MH880287
+VERSION     MH880287.1
+KEYWORDS    .
+SOURCE      Bourbon virus
+  ORGANISM  Bourbon virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Thogotovirus; Thogotovirus bourbonense.
+REFERENCE   1  (bases 1 to 2372)
+  AUTHORS   Hughes,H.R., Burkhalter,K., Godsey,M., Panella,N., Ashley,D.,
+            Nicholson,W., Lambert,A. and Savage,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2018) Division of Vector-borne Diseases, Centers
+            for Disease Control and Prevention, 3156 Rampart Rd, Fort Collins,
+            CO 80521, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: clc genomic workbench v. v. 11; SeqMan
+                                     NGen v. v. 11
+            Sequencing Technology :: IonTorrent
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2372
+                     /organism="Bourbon virus"
+                     /mol_type="viral cRNA"
+                     /isolate="MO-2013-2499"
+                     /isolation_source="pool of 25 nymphs"
+                     /host="Amblyomma americanum"
+                     /db_xref="taxon:1618189"
+                     /segment="1"
+                     /geo_loc_name="USA: Missouri"
+                     /collection_date="Mar-2013"
+                     /note="passage: HUH7(1),Vero(1)"
+     CDS             35..2326
+                     /codon_start=1
+                     /product="polymerase subunit PB2"
+                     /protein_id="QCF29599.1"
+                     /translation="MEGNETAKGIKALIKKYKELSSEPLFQEKRIWEYDTFKRYTTSK
+                     KDHAPHTRLVYNVRRSYPLQVLPTLPEVYKGHRLCKREVDIGEFKRILGTIYCPDYWM
+                     SQGEPTSKEIAESLIGPEMDKVDRFFQASWGDLQYGHLLPYRKPVSIVPVIQEVTPGS
+                     IAPTLEQVFCPQFSTIDAAGRSNREAVEKITKKIRPLLSLKSTPALIHLARGLITQRK
+                     KWVPVTIDTNPSTAELSHFLYSSYHHLPVSKVHTIETASIERLCGEIVQWALKAWEPK
+                     KKLLELLEKITVRGTSLSSILESLDSDKQYTSICKVALGIPIHLVNQIRETRFVIMNR
+                     EAERINVECIKKFGNIQYLHKYQRFEGPYKVFFHWRHVKGIVIGSDMKIGKILLHAEQ
+                     GDFLLPLVLDILYYTASLEPGFERSYDQFVEKKNLFSHFFAHHTSNPLEVYRVLGVGP
+                     TGALANSFHWKIVSEGFLSKIGEMETSVQPYSAYAATHQLSDQLEVFRISKHSKHKLI
+                     DPNELLVPKTPLPLGLDATSTELVDVITNPLVKAKTMWTKLITDPMRCKTFVSNAITG
+                     NPDPFMKTVQQIMPPRSRVANKRRLEELVEDDPNWTRSPEKRFKAAFDAAVLLAGKPK
+                     KRPAEGPPLNKVAMSCLGETLDYSMSGGLVVSTGHKIRVMSQIVVDNSITPVEGFVYT
+                     GVYTEKPKDMEVTTLEDAMKMRLKRICLMQHNRYYVLEEKTSLWSAIENIRTTIDHQQ
+                     SMIKASQVDEALLSLGAPGPSWK"
+ORIGIN      
+        1 agcagttatt caacataaga gaacatacgc acagatggag ggcaacgaga cagccaaagg
+       61 aatcaaagcg cttataaaga agtacaaaga actgtcaagt gaacctctct ttcaagagaa
+      121 aagaatttgg gagtatgaca cgttcaaaag gtatacgacc agcaagaaag accatgctcc
+      181 acacactcga ctggtgtaca atgtgaggag gagttaccca ctgcaagtac tgccaacgct
+      241 cccagaagtg tacaaaggcc acagactgtg caagagggag gtagatattg gagaatttaa
+      301 aagaatcctt ggcacaatct actgtcctga ttactggatg tcccaaggtg aacctacgag
+      361 caaggaaatt gcagaatcct tgatcgggcc agaaatggat aaggtagata ggttcttcca
+      421 agccagttgg ggcgacctgc agtatggaca tttactgcct taccggaaac cagtatctat
+      481 tgtaccagtg attcaagaag tcacacctgg atccattgca ccaacccttg agcaagtctt
+      541 ttgtccacag ttcagcacca tagatgctgc cggtaggtcc aacagagagg ctgtagagaa
+      601 gatcacyaag aagatccggc ctctcctatc attgaagagc actcctgcac tcatacacct
+      661 agcccgagga ctcatcactc aaagaaagaa atgggtccct gtcactatcg acactaaccc
+      721 cagcacagca gagctgtctc acttcctgta cagcagttac caccatcttc cagtttcaaa
+      781 ggtgcacaca atagaaactg cgtcgataga aagactgtgc ggagaaatcg tgcagtgggc
+      841 actgaaggcc tgggaaccaa agaagaagct actggaattg ctggaaaaga taactgtaag
+      901 agggaccagc ttgtcctcaa tactggaatc actggactcc gacaagcaat acacaagcat
+      961 ctgcaaagtt gccctgggaa ttcctattca cctggtgaat cagatcagag aaactaggtt
+     1021 tgtaataatg aaccgagagg cagagaggat aaatgttgag tgcataaaga agttcgggaa
+     1081 tatccagtac ctgcataaat accaaaggtt tgaagggcct tacaaggtat tttttcattg
+     1141 gaggcatgtc aaggggatag tcattggatc cgatatgaaa ataggcaaga tcctgttaca
+     1201 tgcagaacaa ggtgacttcc tgctaccact tgtgttggac attctgtact acacagcatc
+     1261 ccttgagcca ggatttgaaa ggtcctatga ccaatttgtg gagaagaaga atctgttctc
+     1321 tcacttcttc gcacaccaca cttcaaaccc actggaggtg tacagagtgc ttggggttgg
+     1381 acccactggt gctctagcca acagtttcca ttggaaaata gtatcagaag ggttcttgag
+     1441 caagattgga gaaatggaaa caagtgtaca gccatatagt gcgtatgcag caactcacca
+     1501 actatctgat cagctggaag tgttccgcat cagtaaacat tccaaacaca agctgataga
+     1561 cccaaacgag ttgctggtac caaaaacacc actcccactc ggactggatg ctacatcaac
+     1621 tgaattagtg gatgtgataa caaacccgct tgtcaaagct aagaccatgt ggaccaaact
+     1681 gataacagac cccatgaggt gtaagacttt tgtgtcaaat gcaataacag ggaatcctga
+     1741 cccctttatg aagactgtcc aacagatcat gcctccacga agcagggttg ccaacaaaag
+     1801 aaggcttgaa gaactggtcg aagacgatcc caattggaca agatccccag agaaaaggtt
+     1861 caaggcggcg tttgatgctg cagtcctgtt agcaggcaag ccaaagaaac gccctgctga
+     1921 gggcccaccc ctgaataaag tagcgatgag ctgcttgggc gagacacttg actacagcat
+     1981 gtctggagga cttgttgtca gtacagggca caaaatacgt gtgatgagtc agatagtagt
+     2041 ggacaactcc atcactcctg ttgaaggatt tgtctacact ggtgtgtaca cagagaagcc
+     2101 gaaggacatg gaagtgacca ctcttgagga tgcgatgaag atgaggctaa aacgaatttg
+     2161 cctgatgcaa cacaaccgat actacgtgct ggaagagaaa acatctctgt ggagtgcaat
+     2221 tgaaaatata aggacaacaa tagaccacca acaaagcatg ataaaggcca gccaggtcga
+     2281 cgaagcactg ctatcgttgg gtgcacccgg accttcctgg aagtagggtg tggggatttg
+     2341 cttggtttga aaaaactgct ttgatttctc tt
+//

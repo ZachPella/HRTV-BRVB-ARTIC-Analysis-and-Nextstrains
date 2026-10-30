@@ -1,0 +1,11 @@
+strain	accession	isolate	segment	date	date_original	country	state	division	host	length	genes	products	definition	geo_source
+124470b_OR965901.1	OR965901.1	124470b	5	2017-07-01	2017	USA	USA/Missouri		Homo sapiens	1480		nucleoprotein	Bourbon virus isolate 124470b segment 5, complete sequence	GenBank geo_loc_name: USA: Missouri
+AR18-98_OP594808.1	OP594808.1	AR18-98	5	2018-08-XX	Aug-2018	USA	USA/Arkansas		lone star tick	1480		nucleoprotein	Bourbon virus isolate AR18-98 segment 5, complete sequence	Curated Arkansas
+BRBV-STL_MK453525.1	MK453525.1	BRBV-STL	5	2017-06-01	01-Jun-2017	USA	USA/Missouri		Homo sapiens	1438		nucleoprotein	Bourbon virus isolate BRBV-STL segment 5 nucleoprotein gene, complete cds	Curated Missouri
+MO-2013-2499_MH880291.1	MH880291.1	MO-2013-2499	5	2013-03-XX	Mar-2013	USA	USA/Missouri		Amblyomma americanum	1480		nucleoprotein	Bourbon virus isolate MO-2013-2499 segment 5, complete sequence	Curated Missouri
+Monmouth_OQ756341.1	OQ756341.1	Monmouth	5			USA	USA/New-Jersey			1457	NP	nucleoprotein	Bourbon virus isolate Monmouth nucleoprotein (NP) gene, complete cds	Curated New Jersey; excluded if no date
+NY21-1814_OQ513916.1	OQ513916.1	NY21-1814	5	2021-07-01	2021	USA	USA/New-York			1383		nucleoprotein	Bourbon virus isolate NY21-1814 segment 5 nucleoprotein gene, complete cds	Curated New York
+NY21-2143_OQ513922.1	OQ513922.1	NY21-2143	5	2021-07-01	2021	USA	USA/New-York			1383		nucleoprotein	Bourbon virus isolate NY21-2143 segment 5 nucleoprotein gene, complete cds	Curated New York
+NY21-2666_OQ513928.1	OQ513928.1	NY21-2666	5	2021-07-01	2021	USA	USA/New-York			1383		nucleoprotein	Bourbon virus isolate NY21-2666 segment 5 nucleoprotein gene, complete cds	Curated New York
+Original_KP657749.3	KP657749.3	Original	5	2014-07-01	2014	USA	USA/Kansas		Homo sapiens	1480		nucleoprotein	Bourbon virus segment 5 nucleoprotein gene, complete cds	Original Bourbon virus isolated from Bourbon County, Kansas
+BRBV_NE_2026-6	BRBV_NE_2026-6	BRBV-6	5	2026-XX-XX	2026	USA	USA/Nebraska	Sarpy					Bourbon virus Nebraska sample BRBV-6 segment 5; ARTIC consensus pending	Curated local Nebraska sample; Sarpy County; collected 2026
