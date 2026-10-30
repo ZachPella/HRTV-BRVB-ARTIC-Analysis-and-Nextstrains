@@ -1,0 +1,56 @@
+{
+  "title": "Bourbon virus segment 6",
+  "maintainers": [
+    {
+      "name": "Fauver Lab"
+    }
+  ],
+  "build_url": "https://github.com/",
+  "colorings": [
+    {
+      "key": "state",
+      "title": "State",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "host",
+      "title": "Host",
+      "type": "categorical"
+    },
+    {
+      "key": "isolate",
+      "title": "Isolate",
+      "type": "categorical"
+    },
+    {
+      "key": "date",
+      "title": "Date",
+      "type": "continuous"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+    "state"
+  ],
+  "filters": [
+    "state",
+    "country",
+    "host",
+    "isolate",
+    "date"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "display_defaults": {
+    "color_by": "state",
+    "geo_resolution": "state"
+  }
+}

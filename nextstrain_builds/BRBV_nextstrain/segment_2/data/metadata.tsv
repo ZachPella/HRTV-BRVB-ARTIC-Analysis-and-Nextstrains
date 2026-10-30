@@ -1,0 +1,11 @@
+strain	accession	isolate	segment	date	date_original	country	state	division	host	length	genes	products	definition	geo_source
+124470b_OR965898.1	OR965898.1	124470b	2	2017-07-01	2017	USA	USA/Missouri		Homo sapiens	2190		PB1	Bourbon virus isolate 124470b segment 2, complete sequence	GenBank geo_loc_name: USA: Missouri
+AR18-98_OP594805.1	OP594805.1	AR18-98	2	2018-08-XX	Aug-2018	USA	USA/Arkansas		lone star tick	2199		PB1	Bourbon virus isolate AR18-98 segment 2, complete sequence	Curated Arkansas
+BRBV-STL_MK453528.1	MK453528.1	BRBV-STL	2	2017-06-01	01-Jun-2017	USA	USA/Missouri		Homo sapiens	2121		polymerase subunit PB1	Bourbon virus isolate BRBV-STL segment 2 polymerase subunit PB1 gene, partial cds	Curated Missouri
+MO-2013-2499_MH880288.1	MH880288.1	MO-2013-2499	2	2013-03-XX	Mar-2013	USA	USA/Missouri		Amblyomma americanum	2199		polymerase subunit PB1	Bourbon virus isolate MO-2013-2499 segment 2, complete sequence	Curated Missouri
+Monmouth_OQ756338.1	OQ756338.1	Monmouth	2			USA	USA/New-Jersey			2185	PB1	polymerase subunit PB1	Bourbon virus isolate Monmouth polymerase subunit PB1 (PB1) gene, complete cds	Curated New Jersey; excluded if no date
+NY21-1814_OQ513913.1	OQ513913.1	NY21-1814	2	2021-07-01	2021	USA	USA/New-York			2143		polymerase subunit PB1	Bourbon virus isolate NY21-1814 segment 2 polymerase subunit PB1 gene, partial cds	Curated New York
+NY21-2143_OQ513919.1	OQ513919.1	NY21-2143	2	2021-07-01	2021	USA	USA/New-York			2145		polymerase subunit PB1	Bourbon virus isolate NY21-2143 segment 2 polymerase subunit PB1 gene, partial cds	Curated New York
+NY21-2666_OQ513925.1	OQ513925.1	NY21-2666	2	2021-07-01	2021	USA	USA/New-York			2143		polymerase subunit PB1	Bourbon virus isolate NY21-2666 segment 2 polymerase subunit PB1 gene, partial cds	Curated New York
+Original_KU708254.2	KU708254.2	Original	2	2014-07-01	2014	USA	USA/Kansas		Homo sapiens	2199	PB1	polymerase subunit	Bourbon virus strain Original polymerase subunit (PB1) gene, complete cds	Original Bourbon virus isolated from Bourbon County, Kansas
+BRBV_NE_2026-6	BRBV_NE_2026-6	BRBV-6	2	2026-XX-XX	2026	USA	USA/Nebraska	Sarpy					Bourbon virus Nebraska sample BRBV-6 segment 2; ARTIC consensus pending	Curated local Nebraska sample; Sarpy County; collected 2026
