@@ -1,0 +1,134 @@
+LOCUS       NC_024494               3427 bp    RNA     linear   VRL 13-AUG-2018
+DEFINITION  Heartland virus isolate Patient1 segment M, complete sequence.
+ACCESSION   NC_024494
+VERSION     NC_024494.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Heartland virus
+  ORGANISM  Heartland virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Bunyaviricetes; Hareavirales; Phenuiviridae;
+            Bandavirus; Bandavirus heartlandense.
+REFERENCE   1  (bases 1 to 3427)
+  AUTHORS   McMullan,L.K., Folk,S.M., Kelly,A.J., MacNeil,A., Goldsmith,C.S.,
+            Metcalfe,M.G., Batten,B.C., Albarino,C.G., Zaki,S.R., Rollin,P.E.,
+            Nicholson,W.L. and Nichol,S.T.
+  TITLE     A new phlebovirus associated with severe febrile illness in
+            Missouri
+  JOURNAL   N. Engl. J. Med. 367 (9), 834-841 (2012)
+   PUBMED   22931317
+REFERENCE   2  (bases 1 to 3427)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3427)
+  AUTHORS   McMullan,L.K., Folk,S.M., Kelly,A.J., MacNeil,A., Goldsmith,C.S.,
+            Metcalfe,M.G., Batten,B.C., Albarino,C.G., Zaki,S.R., Rollin,P.E.,
+            Nicholson,W.L. and Nichol,S.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2012) Virus Special Pathogens Branch, Centers for
+            Disease Control and Prevention, 1600 Clifton Rd MS G14, Atlanta, GA
+            30333, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to JX005844.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3427
+                     /organism="Heartland virus"
+                     /mol_type="genomic RNA"
+                     /isolate="Patient1"
+                     /isolation_source="Human serum"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1216928"
+                     /segment="M"
+                     /geo_loc_name="USA: Missouri"
+                     /collection_date="19-Jun-2009"
+     gene            51..3281
+                     /locus_tag="IW52_sMgp1"
+                     /db_xref="GeneID:19893498"
+     CDS             51..3281
+                     /locus_tag="IW52_sMgp1"
+                     /codon_start=1
+                     /product="glycoprotein polyprotein"
+                     /protein_id="YP_009047241.1"
+                     /db_xref="GeneID:19893498"
+                     /translation="MIVPIVLFLTLCPSELSAWGSPGDPIVCGVRTETNKSIQIEWKE
+                     GRSEKLCQIDRLGHVTSWLRNHSSFQGLIGQVKGRPSVSYFPEGASYPRWSGLLSPCD
+                     AEWLGLIAVSKAGDTDMIVPGPTYKGKIFVERPTYNGYKGWGCADGKSLSHSGTYCET
+                     DSSVSSGLIQGDRVLWVGEVVCQRGTPVPEDVFSELVSLSQSEFPDVCKIDGVALNQC
+                     EQESIPQPLDVAWIDVGRSHKVLMREHKTKWVQESSAKDFVCFKVGQGPCSKQEEDDC
+                     MSKGNCHGDEVFCRMAGCSARMQDNQEGCRCELLQKPGEIIVNYGGVSVRPTCYGFSR
+                     MMATLEVHKPDRELTGCTGCHLECIEGGVKIVTLTSELRSATVCASHFCASAKGGSKT
+                     TDILFHTGALVGPNSIRITGQLLDGSKFSFDGHCIFPDGCMALDCTFCKEFLRNPQCY
+                     PVKKWLFLVVVIMCCYCALMLLTNILRAIGVWGTWVFAPIKLALALGLRLAKLSKKGL
+                     VAVVTRGQMIVNDELHQVRVERGEQNEGRQGYGPRGPIRHWLYSPALILILTTSICSG
+                     CDELVHAESKSITCKSASGNEKECSVTGRALLPAVNPGQEACLHFSVPGSPDSKCLKI
+                     KVKSINLRCKQASSYYVPEAKARCTSVRRCRWAGDCQSGCPTYFSSNSFSDDWANRMD
+                     RAGLGMSGCSDGCGGAACGCFNAAPSCIFWRKWVENPSNRVWKVSPCASWVLAATIEL
+                     TLPSGEVKTLEPVTGQATQMFKGVAITYLGSSIEIVGMTRLCEMKEMGTGIMALAPCN
+                     DPGHAIMGNVGEIQCSSIESAKHIRSDGCIWNADLVGIELRVDDAVCFSKLTSVEAVA
+                     NFSKIPATISGVRFDQGNHGESRIYGSPLDITRVSGEFSVSFRGMRLKLSEISASCTG
+                     EITNVSGCYSCMTGASVSIKLHSSKNTTGHLKCDSDETAFSVMEGTHTYRPHMSFDKA
+                     VIDEECVLNCGGHSSKLLLKGSLVFMDVPRFVDGSYVQTYHSKVPAGGRVPNPVDWLN
+                     ALFGDGITRWILGIIGVLLACVMLFVVVVAITRRLIKGLTQRAKVA"
+ORIGIN      
+        1 acacagagac ggctatacat taaagtagag gtaaaccgta atccactgag atgattgtcc
+       61 cgattgtcct gtttctcacg ctctgtccgt ccgaactcag tgcctggggc tccccaggag
+      121 accctattgt ttgtggtgtg aggactgaaa caaacaaatc cattcagatt gagtggaagg
+      181 agggaagatc agagaagcta tgccagattg acaggcttgg gcatgtcaca agctggttaa
+      241 gaaaccactc atctttccag gggcttattg gtcaggtgaa ggggagacca agtgtttcct
+      301 acttcccgga aggggcttct tacccaaggt ggagcggcct attaagccca tgtgatgctg
+      361 aatggctggg actgatagca gtgagcaagg ctggagacac agacatgatt gtcccaggcc
+      421 caacttacaa agggaaaatc tttgttgaga gaccaacata caacggttac aaaggctggg
+      481 gttgtgcaga tggaaagtca ctaagccact caggcacata ttgtgaaact gacagctcag
+      541 tgagttctgg tttaattcag ggagataggg ttctctgggt tggggaagta gtctgtcaga
+      601 gagggacccc tgtgccagaa gatgtattta gtgaactggt tagcttgagt caaagtgagt
+      661 tcccagatgt gtgcaagatt gatggtgttg cactgaacca gtgtgagcag gagagcatcc
+      721 cccagccact ggacgttgca tggattgatg ttggaaggtc tcataaggta ctgatgagag
+      781 aacacaaaac taaatgggtc caagagagct cagcaaagga ctttgtgtgt ttcaaggtgg
+      841 gtcaggggcc atgttcgaaa caagaggaag atgactgcat gagtaagggc aactgccatg
+      901 gggatgaggt tttctgcagg atggcaggat gctctgcccg tatgcaagat aatcaagaag
+      961 gctgcaggtg cgaactgctt caaaaacctg gagaaatcat tgtgaattat ggaggcgtct
+     1021 ctgtgagacc aacctgttat ggattctcca gaatgatggc aacattggaa gttcacaaac
+     1081 ctgatagaga attaacaggg tgcacgggtt gtcacctaga gtgcatagag ggaggagtta
+     1141 aaattgtaac gcttacaagc gagctgagaa gtgcaacagt ttgtgcttca catttttgtg
+     1201 catctgcaaa ggggggctca aagacaactg acatactctt ccacactggt gctctcgttg
+     1261 gacccaattc cattagaata actggtcagt tgttagatgg gagcaagttc tcctttgatg
+     1321 ggcactgcat attcccagat gggtgcatgg ctcttgactg caccttctgt aaagagttcc
+     1381 tgagaaaccc gcaatgttac cctgtaaaga aatggctctt cctggtggta gttataatgt
+     1441 gctgctattg tgccctgatg ctgcttacta acatactgag agctataggt gtttggggga
+     1501 catgggtttt tgctccaata aagttggctc tagcattagg gttgaggctt gccaaactgt
+     1561 caaagaaggg gctggttgct gtggttacaa ggggccaaat gatcgtgaat gatgagctgc
+     1621 accaggttcg agtggagaga ggtgagcaaa atgagggaag acaaggttat ggcccaagag
+     1681 gccccatccg tcactggcta tactcacctg ccctcattct cattctcacc acttcaattt
+     1741 gctctggatg tgatgagctt gttcatgctg agagtaaatc catcacatgc aagtctgcat
+     1801 ctgggaatga gaaggagtgc tcagtgacag gcagagcttt gctcccagct gtcaatccag
+     1861 ggcaggaggc ctgcttgcac tttagcgtgc caggaagccc agactccaag tgccttaaga
+     1921 tcaaagtgaa atcaataaat ctcagatgta agcaagcctc ttcatattat gttcctgaag
+     1981 caaaggcaag atgtacatct gtcagaaggt gcaggtgggc aggtgactgt caatctgggt
+     2041 gtccaacata tttcagctca aactcattct cagatgattg ggcaaacagg atggacaggg
+     2101 ctgggctcgg gatgagtggg tgctcagatg ggtgtggtgg agctgcatgt gggtgtttta
+     2161 atgcagcgcc atcctgcatc ttttggagaa agtgggtgga gaacccatcc aatcgtgtct
+     2221 ggaaggtgtc accttgtgca tcatgggtgc tagctgcaac cattgagttg actttgccat
+     2281 caggagaggt taagactcta gagcctgtca cagggcaagc aactcagatg ttcaagggtg
+     2341 ttgcaatcac atatctggga tcatccattg agattgttgg catgaccagg ctatgtgaga
+     2401 tgaaagagat ggggactggg ataatggcac tggccccctg caatgatcca gggcacgcca
+     2461 taatgggaaa tgtgggtgag atccaatgca gtagtataga aagcgcaaag cacatcaggt
+     2521 ctgatgggtg catttggaat gctgacctag ttggaataga attgagggtt gatgatgctg
+     2581 tgtgtttctc gaaactcact agtgttgagg cagttgcaaa tttttcaaaa atcccggcaa
+     2641 caatttctgg ggttcgcttt gatcaaggga atcatggaga atcacgtatc tatggtagcc
+     2701 cattagatat cacgagggtt agtggggaat tctcagtgtc attcagaggg atgaggctca
+     2761 aactatctga gatatcagca agctgcacag gtgagataac aaacgtctct ggttgttact
+     2821 cctgcatgac tggggcctca gtcagcataa aattacatag cagtaagaac acaacaggtc
+     2881 atcttaagtg tgattcagat gagactgcat tcagtgtcat ggagggaaca cacacatata
+     2941 ggcctcacat gagctttgat aaagcagtaa tagatgagga gtgtgtgcta aactgtggtg
+     3001 gccactcatc aaaactgttg cttaaaggga gccttgtttt tatggacgtg ccaaggtttg
+     3061 ttgatggaag ttatgtccaa acatatcaca gcaaggtgcc cgctggggga agggtcccaa
+     3121 atccggtaga ctggctcaac gcactgtttg gagatggcat aacacgatgg attcttggga
+     3181 ttataggggt tctgctggca tgtgtcatgc tatttgtggt ggtggttgcc atcactaggc
+     3241 gattgatcaa gggactgact caaagggcga aggtggcatg attggcgtta attgacaaat
+     3301 aagcaagcct cctgtttcaa acctctggtg ggccagaagc ctgacagagg tttgaaacaa
+     3361 atgctctgac atctgaggca tgaatgataa tgggtgggtt ttcaatttgt atagccggtc
+     3421 tttgtgt
+//

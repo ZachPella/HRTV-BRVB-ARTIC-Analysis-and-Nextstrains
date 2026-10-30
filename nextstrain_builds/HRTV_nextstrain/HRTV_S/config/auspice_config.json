@@ -1,0 +1,46 @@
+{
+  "title": "Heartland virus L segment phylogenetic analysis",
+  "maintainers": [
+    {"name": "ZP", "url": "none"}
+  ],
+  "build_url": "https://github.com/ZP/heartland-nextstrain",
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "state",
+      "title": "State",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+    "state"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "color_by": "state"
+  },
+  "filters": [
+    "country",
+    "state"
+  ]
+}
